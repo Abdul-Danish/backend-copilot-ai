@@ -184,10 +184,3 @@ The assistant is given this system prompt at the start of every conversation:
 2. Copy your API key from the dashboard
 3. Set it as the `WEATHER_API_KEY` environment variable before starting the app
 
-The free tier supports up to **1 million calls/month**, which is more than enough for development.
-
----
-
-## 📄 License
-
-This project is open source. See the repository for license details.
